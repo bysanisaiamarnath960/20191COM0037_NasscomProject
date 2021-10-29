@@ -1,2 +1,2 @@
 # 20191COM0037_NasscomProject
-USA Housing-Machine Learning(Linear Regression) using python
+USA Housing Price Prediction-Machine Learning(Linear Regression) using python
